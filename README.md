@@ -12,7 +12,6 @@ Ce portfolio présente de manière détaillée les projets réalisés au cours d
 
 ## Table des matières
 
-- [À propos](#à-propos)
 - [Parcours](#parcours)
   - [Ingénieur statisticien — Ifremer](#ingénieur-statisticien--ifremer)
   - [Recherche opérationnelle — Vekia](#recherche-opérationnelle--vekia)
