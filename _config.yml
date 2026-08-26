@@ -1,44 +1,5 @@
 title: "Martin Desmazières"
 description: "Portfolio — Data Science, Statistics & Machine Learning"
-author: "Martin Desmazières"
-
-# GitHub Pages
-
 theme: jekyll-theme-minimal
 
-# Informations du site
-
-url: "https://USERNAME.github.io"
-baseurl: "/portfolio"
-
-# Image de profil
-
-logo: "/portfolio/assets/images/profile.jpg"
-
-# Réseaux
-
-github_username: "USERNAME"
-linkedin_username: "USERNAME"
-
-# Markdown
-
-markdown: kramdown
-
-# Plugins GitHub Pages
-
-plugins:
-
-* jekyll-seo-tag
-* jekyll-feed
-
-# SEO
-
-lang: fr-FR
-
-# Navigation
-
-show_downloads: false
-
-# Google Analytics
-
-google_analytics:
+show_downloads: true
