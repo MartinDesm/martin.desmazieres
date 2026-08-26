@@ -10,11 +10,41 @@ Ce portfolio présente de manière détaillée les projets réalisés au cours d
 
 ---
 
-## Parcours
+## Table des matières
+
+- [À propos](#à-propos)
+- [Parcours](#parcours)
+  - [Ingénieur statisticien — Ifremer](#ingénieur-statisticien--ifremer)
+  - [Recherche opérationnelle — Vekia](#recherche-opérationnelle--vekia)
+- [Formation](#formation)
+  - [Master — Ingénierie Statistique](#master--ingénierie-statistique)
+- [Projets](#projets)
+  - [Modélisation par Machine Learning](#modélisation-par-machine-learning)
+  - [Random Forest](#random-forest)
+  - [Transfer Learning avec PyTorch](#transfer-learning-avec-pytorch)
+  - [Algorithmes génétiques](#algorithmes-génétiques)
+  - [Modélisation numérique de la diffusion thermique](#modélisation-numérique-de-la-diffusion-thermique)
+  - [Analyse de données climatiques](#analyse-de-données-climatiques)
+  - [Analyse de données immobilières](#analyse-de-données-immobilières)
+- [Compétences](#compétences)
+  - [Statistiques & mathématiques](#statistiques--mathématiques)
+  - [Data Science](#data-science)
+  - [Programmation](#programmation)
+  - [Data & développement](#data--développement)
+- [Reproductibilité et bonnes pratiques](#reproductibilité-et-bonnes-pratiques)
+- [SQL & bases de données](#sql--bases-de-données)
+- [Objectif professionnel](#objectif-professionnel)
+- [Structure du portfolio](#structure-du-portfolio)
+- [Technologies](#technologies)
+- [Contact](#contact)
+
+---
+
+## Parcours Professionnel
 
 ### Ingénieur statisticien — Ifremer
 
-**18 mois d'expérience**
+**CDD 18 mois**
 
 Mon expérience à l'Ifremer m'a permis de travailler sur des problématiques réelles d'analyse de données dans le domaine des pêches maritimes.
 
@@ -73,7 +103,7 @@ Technologies principales :
 
 ### Recherche opérationnelle — Vekia
 
-**6 mois d'expérience**
+**Stage 6 mois**
 
 Lors de mon expérience chez Vekia, j'ai travaillé sur des problématiques d'**optimisation appliquées à la supply chain**.
 
@@ -335,54 +365,6 @@ Je souhaite particulièrement développer mes compétences dans les domaines sui
 * ingénierie Machine Learning.
 
 Mon parcours en statistiques me donne une base solide pour comprendre les fondements mathématiques des modèles. Je cherche maintenant à approfondir la partie **informatique, ingénierie logicielle et industrialisation des modèles** afin d'évoluer progressivement vers des rôles de Data Scientist puis de Machine Learning Engineer / AI Engineer.
-
----
-
-# Structure du portfolio
-
-Le portfolio est organisé autour de plusieurs catégories de projets :
-
-```text
-portfolio/
-│
-├── data-science/
-│   ├── exploratory-data-analysis/
-│   ├── statistical-modeling/
-│   └── machine-learning/
-│
-├── machine-learning/
-│   ├── random-forest/
-│   ├── deep-learning/
-│   ├── transfer-learning/
-│   └── genetic-algorithms/
-│
-├── data-engineering/
-│   ├── sql/
-│   └── data-pipelines/
-│
-├── statistics/
-│   ├── monte-carlo/
-│   ├── bayesian-inference/
-│   └── simulation/
-│
-└── professional-experience/
-    ├── ifremer/
-    └── vekia/
-```
-
-Chaque projet a vocation à présenter :
-
-1. **Le contexte et la problématique**
-2. **Les données utilisées**
-3. **L'approche méthodologique**
-4. **Les choix techniques**
-5. **L'implémentation**
-6. **Les résultats**
-7. **Les limites de l'approche**
-8. **Les pistes d'amélioration**
-9. **Les compétences et technologies mobilisées**
-
----
 
 # Technologies
 
